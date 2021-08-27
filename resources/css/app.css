@@ -1,0 +1,19 @@
+body {
+    background: red
+}
+
+#header {
+    width: 90%;
+    margin-left: 5%;
+}
+
+footer {
+    width: 90%;
+    margin-left: 5%;
+}
+ 
+.jumbotron {
+    width: 90%;
+    margin-left: 5%;
+    background: rgb(128, 128, 128)
+}
